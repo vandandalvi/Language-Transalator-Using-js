@@ -1,5 +1,7 @@
 # Language-Transalator-Using-js
 
+TRY NOW : https://vandandalvi.github.io/Language-Transalator-Using-js/translator.html
+
 #API used:- MyMemory Translation API
 
 Designed a intutive lanuage translator for 4 languages.
